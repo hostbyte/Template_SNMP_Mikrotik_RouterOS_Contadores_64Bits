@@ -1,0 +1,2 @@
+# Template_SNMP_Mikrotik_RouterOS_Contadores_64Bits
+Template SNMP Mikrotik RouterOS Contadores 64Bits
